@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, We're Team Sahaay</h1>
+<h1 align="center">Hi! We're Team Sahaay!</h1>
 <h3 align="center">The Club of Social Innovators from IIT Madras!</h3>
 
 - 👨‍💻 Check out some of our achievements at [https://cfi.iitm.ac.in/clubs/team-sahaay](https://cfi.iitm.ac.in/clubs/team-sahaay)
