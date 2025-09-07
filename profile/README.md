@@ -4,7 +4,7 @@
 
 <ul>
   <li>👨‍💻 Check out some of our achievements at <a href="https://cfi.iitm.ac.in/clubs/team-sahaay">https://cfi.iitm.ac.in/clubs/team-sahaay</a></li>
-  <li>📫 Reach us at <a href="mailto:teamsahaayiitm@gmail.com">teamsahaayiitm@gmail.com</a></li>
+  <li>📫 Reach us at <a href="mailto:teamsahaay_cfi@smail.iitm.ac.in">teamsahaay_cfi@smail.iitm.ac.in</a></li>
 </ul>
 
 <div align="center">
