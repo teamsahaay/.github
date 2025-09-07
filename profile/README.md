@@ -8,8 +8,8 @@
 </ul>
 
 <div align="center">
-  <img src="Outside.png">
-  <img src="Inside.png">
+  <img src="brochures/Brochure_Outside_25-26.png">
+  <img src="brochures/Brochure_Inside_25-26.png">
 </div>
 
 <h3 align="center">Take a look at our Instagram and LinkedIn pages -</h3>
